@@ -124,10 +124,10 @@ ScrollReveal().reveal(`.home__name, .home__info, .about__container, section__tit
 /*=============== SCROLL REVEAL ANIMATION ===============*/
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Ecole Moderne', "Lanbagni", "Plus", "Bienvenue!"],
+    strings: ["Bienvenue!", "à L'Ecole Moderne", "Lambagni Plus"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
-    loop: true,
+    loop: true
 });
 
